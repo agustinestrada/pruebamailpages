@@ -1,15 +1,5 @@
 window.addEventListener('load', () => {
         
-    document.querySelector('h1').style.color = 'crimson'
-
-   
-
-
-
-
-
-
-
-
+    document.querySelector('h1').style.color = 'red'
 
 })
